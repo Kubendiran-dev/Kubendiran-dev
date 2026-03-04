@@ -56,20 +56,7 @@ Features:
 Tech Stack:
 MongoDB | Express.js | React.js | Node.js
 
-### Movie Database API
 
-REST API for managing movie data using Node.js and MongoDB.
-
-Features:
-- Add Movie
-- Update Movie
-- Delete Movie
-- Get Movie Details
-
-Tech Used:
-Node.js | Express.js | MongoDB | Mongoose
-
----
 
 ## 📊 GitHub Stats
 
