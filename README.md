@@ -43,19 +43,18 @@ Postman
 
 ## 🚀 Projects
 
-### Civil Service Management Web Application
+### Civil Service Management System
 
-Full Stack MERN application to manage civil service records.
+Full Stack MERN application developed to manage civil service records and user data.
 
 Features:
+- Create, Read, Update, Delete (CRUD) operations
 - REST API integration
-- CRUD operations
 - MongoDB database connectivity
+- Responsive frontend interface
 
-Tech Used:
+Tech Stack:
 MongoDB | Express.js | React.js | Node.js
-
----
 
 ### Movie Database API
 
